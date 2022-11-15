@@ -1,0 +1,10 @@
+.sider{
+    min-height: calc(100vh - 60px);
+    padding: 2rem 2rem 2rem 4rem;
+    background-color: #181616;
+}
+
+.post_link{
+    display: block;
+    padding:10px;
+}
