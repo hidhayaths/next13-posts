@@ -8,3 +8,9 @@
     display: block;
     padding:10px;
 }
+
+@media (prefers-color-scheme: light){
+    .sider{
+        background-color: #f4f4f4;
+    }
+}

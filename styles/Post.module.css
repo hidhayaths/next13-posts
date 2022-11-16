@@ -29,3 +29,13 @@
 .post_footer{
     color:#6e6e6e;
 }
+
+@media (prefers-color-scheme: light){
+    .post_content{
+        color:#696969;
+    }
+
+    .post_footer{
+        color:#cfcfcf;
+    }
+}
